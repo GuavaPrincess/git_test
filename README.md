@@ -1,0 +1,1 @@
+This is Eddie's first git project for the Odin Project: Practicing Git Basics.
